@@ -107,6 +107,6 @@ curl_close( $ch );
 	}
     else
     {
-        header("Location: https://wish4luck.ml/webhook.php");
+        header("Location: DOMAIN/webhook.php");
     }
 ?>
